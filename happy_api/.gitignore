@@ -2,9 +2,6 @@
 # Created by https://www.gitignore.io/api/macos,django,python
 # Edit at https://www.gitignore.io/?templates=macos,django,python
 
-### Jupyter Labs ###
-.ipynb_checkpoints
-
 ### Django ###
 *.log
 *.pot
